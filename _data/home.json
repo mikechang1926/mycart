@@ -1,6 +1,6 @@
 {
-  "title": "Hello, my name is Fernfolio",
-  "image": "/static/img/fern-in-hand.jpeg",
-  "subtitle": "The super simple portfolio template built with Eleventy and Netlify CMS",
+  "title": "Michael Y. Chang",
+  "image": "/static/img/mike.jpg",
+  "subtitle": "Artist, Producer",
   "image_alt": "Fern in hand"
 }

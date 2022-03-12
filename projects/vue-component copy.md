@@ -1,12 +1,12 @@
 ---
-title: Mental Healthcare
-emoji: 💾
+title: Cultural Topics
+emoji: 🗓
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: As a first-generation immigrant, I've a lot to say about parenting, shame, values, motivations, stigma
 tags:
-  - javascript
-  - node
+  - celebrity
+  - religion
 ---
 
 ### Task
